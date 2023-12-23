@@ -36,7 +36,7 @@ I will create a modern Responsive and visually stunning web application with an 
 
 I always try my best to satisfy every client. If you have any questions, just message me without any hesitation. I'll be happy to help you. 
 
-❤️Thank you. Have a nice day❤️
+Thank you. ❤️Have a nice day❤️
 
 Skills: REACT / JavaScript / Bootstrap / HTML / CSS
 
