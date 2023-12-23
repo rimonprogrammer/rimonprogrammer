@@ -9,6 +9,31 @@ Hi, This is Nobenur Islam Rimon an expert web developer with 1+ years of experie
 
 I will create a modern Responsive and visually stunning web application with an attractive look and user-friendly.
 
+<h4>My Development Process.</h4>
+<ul>
+    <li>✅Responsive design.</li>
+    <li>✅Visually stunning layout design</li>
+    <li>✅Well-structured code.</li>
+    <li>✅SEO-friendly code.</li>
+    <li>✅Cross-browser compatibility</li>
+    <li>✅Reusable components.</li>
+    <li>✅High-Quality and Pixel Perfect Design.</li>
+    
+</ul>
+
+<h4>Why choose me?</h4>
+<ul>
+    <li>✅Expertise as a front-end Developer.</li>
+    <li>✅Proven track record of successful projects.</li>
+    <li>✅100% customer satisfaction.</li>
+    <li>✅Fast and efficient development process.</li>
+    <li>✅Effective communication and collaboration.</li>
+    <li>✅Highly adaptable to new technologies.</li>
+    <li>✅Continuous learning and improvement.</li>
+    <li>✅24/7 availability</li>
+    <li>✅Excellent customer support</li>
+</ul>
+
 I always try my best to satisfy every client. If you have any questions, just message me without any hesitation. I'll be happy to help you. 
 
 ❤️Thank you. Have a nice day❤️
