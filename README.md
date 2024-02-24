@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-(https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/411878320_316203688041623_3075447041091224210_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=LgEgOX-r_xYAX-wlcrJ&_nc_oc=AQnKnuMiKD2om-SJVTWG_0mDDscSyiAENoQF3tWeiPAl6UJ5sRexk7n3rWHmhm5lliM&_nc_ht=scontent.fdac24-3.fna&oh=00_AfCVo_OpYPIIsdfwUBntWiXYGXprl85SjneRdNkgccOVJA&oe=65DFF261)
+![I am GitHub Readme Generator's creator](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/411878320_316203688041623_3075447041091224210_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=LgEgOX-r_xYAX-wlcrJ&_nc_oc=AQnKnuMiKD2om-SJVTWG_0mDDscSyiAENoQF3tWeiPAl6UJ5sRexk7n3rWHmhm5lliM&_nc_ht=scontent.fdac24-3.fna&oh=00_AfCVo_OpYPIIsdfwUBntWiXYGXprl85SjneRdNkgccOVJA&oe=65DFF261)
 
 
 
@@ -40,7 +40,7 @@ I always try my best to satisfy every client. If you have any questions, just me
 
 Thank you. ❤️Have a nice day❤️
 
-Skills: REACT / JavaScript / Bootstrap / HTML / CSS
+Skills: HTML / CSS / Bootstrap / JavaScript / REACT / Node / Express / MongoDB
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimonprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="rimonprogrammer" /> </p>
 <p align="left"> <a href="https://twitter.com/rimonprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/rimonprogrammer?logo=twitter&style=for-the-badge" alt="rimonprogrammer" /></a> </p>
