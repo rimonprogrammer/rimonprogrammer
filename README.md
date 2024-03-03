@@ -2,42 +2,42 @@
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/411878320_316203688041623_3075447041091224210_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=LgEgOX-r_xYAX-wlcrJ&_nc_oc=AQnKnuMiKD2om-SJVTWG_0mDDscSyiAENoQF3tWeiPAl6UJ5sRexk7n3rWHmhm5lliM&_nc_ht=scontent.fdac24-3.fna&oh=00_AfCVo_OpYPIIsdfwUBntWiXYGXprl85SjneRdNkgccOVJA&oe=65DFF261)
 
+<p>Hello I'm Rimon,</p>
+I am a professional front-end web developer having core expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications. I've 1+ years of experience in the web development field & I've already completed 20+ projects. I'm an expert in HTML, CSS, Bootstrap, JavaScript & React. Also, I can build user authentication + Bcrypt-JS security, Complete CRUD operation, & rest API creation using Node-JS, express-JS, and MongoDB.
 
-## Hi👋, This is Nobenur Islam Rimon
-### I am an expert Front end web developer
+My coding is full fresh hand type, SEO friendly, & well commented. As a professional front-end web developer, new technology learning is my passion, and still now, continuously I'm improving my skills
 
-Hi, This is Nobenur Islam Rimon an expert web developer with 1+ years of experience. Client satisfaction is my first priority and learning new technology is my passion. I've successfully completed 50+ projects across various platforms using HTML, CSS, bootstrap, javascript, and react.js. 
+</> My Development Process.
+✅ Reusable components.
+✅ 100% responsive design.
+✅ Visually stunning layout design
+✅ Cross-browser compatibility.
+✅ MongoDB (authentication)
+✅ API Integration & Custom API create
+✅ Bcrypt JS security
+✅ Well structured & commented code.
+✅ Hand type SEO-friendly code.
+✅ High-Quality and Pixel Perfect Design.
+✅ W3c validation
+✅ PSD/Figma/XD/AI to HTML
+✅ PSD/Figma/XD/AI to React
 
-I will create a modern Responsive and visually stunning web application with an attractive look and user-friendly.
+⭐Why choose me❓
+✅ Expertise as a front-end Developer.
+✅ 100% client satisfaction.
+✅ Fast and efficient development process.
+✅ Effective communication and collaboration.
+✅ Continuous learning and improvement.
+✅ 24/7 availability
 
-<h4>My Development Process.</h4>
-<ul>
-    <li>✅Responsive design.</li>
-    <li>✅Visually stunning layout design</li>
-    <li>✅Well-structured code.</li>
-    <li>✅SEO-friendly code.</li>
-    <li>✅Cross-browser compatibility</li>
-    <li>✅Reusable components.</li>
-    <li>✅High-Quality and Pixel Perfect Design.</li>
-    
-</ul>
+Client satisfaction is my first priority. I always try my best to satisfy every client. If you have any questions, just message me. I will help you. 
 
-<h4>Why choose me?</h4>
-<ul>
-    <li>✅Expertise as a front-end Developer.</li>
-    <li>✅Proven track record of successful projects.</li>
-    <li>✅100% customer satisfaction.</li>
-    <li>✅Fast and efficient development process.</li>
-    <li>✅Effective communication and collaboration.</li>
-    <li>✅Highly adaptable to new technologies.</li>
-    <li>✅Continuous learning and improvement.</li>
-    <li>✅24/7 availability</li>
-    <li>✅Excellent customer support</li>
-</ul>
+Email: rahitulislam213@gmail.com
+Phone / WhatsApp: 01313687347
+Website: https://rimonprogrammer.netlify.app/
 
-I always try my best to satisfy every client. If you have any questions, just message me without any hesitation. I'll be happy to help you. 
-
-Thank you. ❤️Have a nice day❤️
+Thanks for visiting my profile❤️
+Have a nice day!
 
 Skills: HTML / CSS / Bootstrap / JavaScript / REACT / Node / Express / MongoDB
 
