@@ -6,7 +6,7 @@
 <p>I am a professional front-end web developer having core expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications. I've 1+ years of experience in the web development field & I've already completed 20+ projects. I'm an expert in HTML, CSS, Bootstrap, JavaScript & React. Also, I can build user authentication + Bcrypt-JS security, Complete CRUD operation, & rest API creation using Node-JS, express-JS, and MongoDB.</p>
 <p>My coding is full fresh hand type, SEO friendly, & well commented. As a professional front-end web developer, new technology learning is my passion, and still now, continuously I'm improving my skills</p>
 
-<h4></> My Development Process.</h4>
+<h4> &lt;/&gt; My Development Process.</h4>
 <ul>
   <li>✅ Reusable components.</li>
   <li>✅ 100% responsive design.</li>
