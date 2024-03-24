@@ -4,23 +4,23 @@
 
 <h3>🤝Hello I'm Rimon,</h3>
 <p>I am a professional front-end web developer having core expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications. I've 1+ years of experience in the web development field & I've already completed 20+ projects. I'm an expert in HTML, CSS, Bootstrap, JavaScript & React. Also, I can build user authentication + Bcrypt-JS security, Complete CRUD operation, & rest API creation using Node-JS, express-JS, and MongoDB.</p>
-<p>My coding is full fresh hand type, SEO friendly, & well commented. As a professional front-end web developer, new technology learning is my passion, and still now, continuously I'm improving my skills</p>
+<p>My coding is full fresh hand type, SEO friendly, & well commented. As a professional front-end web developer, new technology learning is my passion, and still now, continuously I'm improving my skills.</p>
 
 <h4> &lt;&gt; My Development Process.&lt;/&gt;</h4>
 <ul>
   <li>✅ Reusable components.</li>
   <li>✅ 100% responsive design.</li>
-  <li>✅ Visually stunning layout design</li>
+  <li>✅ Visually stunning layout design.</li>
   <li>✅ Cross-browser compatibility.</li>
-  <li>✅ MongoDB (authentication)</li>
-  <li>✅ API Integration & Custom API create</li>
-  <li>✅ Bcrypt JS security</li>
+  <li>✅ MongoDB (authentication).</li>
+  <li>✅ API Integration & Custom API create.</li>
+  <li>✅ Bcrypt JS security.</li>
   <li>✅ Well structured & commented code.</li>
   <li>✅ Hand type SEO-friendly code.</li>
   <li>✅ High-Quality and Pixel Perfect Design.</li>
-  <li>✅ W3c validation</li>
-  <li>✅ PSD/Figma/XD/AI to HTML</li>
-  <li>✅ PSD/Figma/XD/AI to React</li>
+  <li>✅ W3c validation.</li>
+  <li>✅ PSD/Figma/XD/AI to HTML.</li>
+  <li>✅ PSD/Figma/XD/AI to React.</li>
 </ul>
 
 <h4>⭐Why choose me❓</h4>
@@ -30,14 +30,14 @@
   <li>✅ Fast and efficient development process.</li>
   <li>✅ Effective communication and collaboration.</li>
   <li>✅ Continuous learning and improvement.</li>
-  <li>✅ 24/7 availability</li>
+  <li>✅ 24/7 availability.</li>
 </ul>
 
 <h4>🔥My specialize🔥</h4>
 <ul>
   <li>✅ User authentication using React-JS, Node-JS, Express-JS, and MongoDB.</li>
-  <li>✅ Security using Bcrypt-JS</li>
-  <li>✅ Custom API creation & integration</li>
+  <li>✅ Security using Bcrypt-JS.</li>
+  <li>✅ Custom API creation & integration.</li>
   <li>✅ Complete CRUD (Create, Read, Update, Delete) operation using React-JS, Node-JS, Express-JS, and MongoDB.</li>
 </ul>
 
@@ -49,7 +49,7 @@
 
 <h4>📞Contact with me!</h4>
 <ul>
-  <li>✅<b>Email:</b> rahitulislam213@gmail.com</li>
+  <li>✅<b>Email:</b> <a href="rahitulislam213@gmail.com" target="_blank">rahitulislam213@gmail.com</a></li>
   <li>✅<b>Phone / WhatsApp:</b> 01313687347</li>
   <li>✅<b>Website:</b> https://rimonprogrammer.netlify.app/</li>
 </ul>
@@ -63,10 +63,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rimonprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimonprogrammer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nobenur-islam-rimon-programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nobenur-islam-rimon-programmer/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rimonprogrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rimonprogrammer/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rahitul_islam_rimon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahitul_islam_rimon/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/nobenur-islam-rimon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimonprogrammer/md nobennur islam rimon" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/rimonprogrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rimonprogrammer/md nobennur islam rimon" height="30" width="40" /></a>
+
+<a href="https://twitter.com/rimonprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimonprogrammer/md nobennur islam rimon" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/rimonprogrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimonprogrammer/md nobennur islam rimon" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimonprogrammer&show_icons=true&locale=en" alt="rimonprogrammer" /></p>
