@@ -43,16 +43,16 @@
 
 <p>Client satisfaction is my first priority. I always try my best to satisfy every client.</p>
 
+<p>📡Technologies: HTML 5 / CSS 3 / Bootstrap 5 / JavaScript (es-16) / REACT-JS / Node-JS / Express-JS / MongoDB</p>
+<p>⚙️Tools: VS code / Git / GitHub / Netlify / Vercel</p>
+<p>🥡Packages: Mongoose / Bcrypt-JS</p>
+
 <h4>📞Contact with me!</h4>
 <ul>
   <li>✅Email: rahitulislam213@gmail.com</li>
   <li>✅Phone / WhatsApp: 01313687347</li>
   <li>✅Website: https://rimonprogrammer.netlify.app/</li>
 </ul>
-
-<p>📡Technologies: HTML 5 / CSS 3 / Bootstrap 5 / JavaScript (es-16) / REACT-JS / Node-JS / Express-JS / MongoDB</p>
-<p>⚙️Tools: VS code / Git / GitHub / Netlify / Vercel</p>
-<p>🥡Packages: Mongoose / Bcrypt-JS</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimonprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="rimonprogrammer" /> </p>
 <p align="left"> <a href="https://twitter.com/rimonprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/rimonprogrammer?logo=twitter&style=for-the-badge" alt="rimonprogrammer" /></a> </p>
