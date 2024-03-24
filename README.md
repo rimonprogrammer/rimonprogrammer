@@ -2,7 +2,7 @@
 
 <img src="https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/411878320_316203688041623_3075447041091224210_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_hCDt_RJzpUAX9VsKlc&_nc_oc=Adjgcmi3d5KPu4Hfe6xvfcKxUqre0iP9owdpvWTcr_o-ikeeTO2QZp_nO7_oyxVIbuk&_nc_ht=scontent.fdac24-3.fna&oh=00_AfAxYscdILfQKiND90kIrgBO6MlXaNIfEf1QQ-ToHYf6CQ&oe=66058521" alt="MD Nobenur Islam Rimon picture" /> 
 
-<h4>Hello I'm Rimon,</h4>
+<h3>Hello I'm Rimon,</h3>
 <p>I am a professional front-end web developer having core expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications. I've 1+ years of experience in the web development field & I've already completed 20+ projects. I'm an expert in HTML, CSS, Bootstrap, JavaScript & React. Also, I can build user authentication + Bcrypt-JS security, Complete CRUD operation, & rest API creation using Node-JS, express-JS, and MongoDB.</p>
 <p>My coding is full fresh hand type, SEO friendly, & well commented. As a professional front-end web developer, new technology learning is my passion, and still now, continuously I'm improving my skills</p>
 
@@ -44,9 +44,11 @@
 <p>Client satisfaction is my first priority. I always try my best to satisfy every client.</p>
 
 <h4>Contact with me!</h4>
-<p>Email: rahitulislam213@gmail.com</p>
-<p>Phone / WhatsApp: 01313687347</p>
-<p>Website: https://rimonprogrammer.netlify.app/</p>
+<ul>
+  <li>✅Email: rahitulislam213@gmail.com</li>
+  <li>✅Phone / WhatsApp: 01313687347</li>
+  <li>✅Website: https://rimonprogrammer.netlify.app/</li>
+</ul>
 
 <p>Thanks for visiting my profile❤️</p>
 <p>Have a nice day!</p>
