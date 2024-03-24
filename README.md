@@ -41,8 +41,9 @@
   <li>✅ Complete CRUD (Create, Read, Update, Delete) operation using React-JS, Node-JS, Express-JS, and MongoDB.</li>
 </ul>
 
-<p>Client satisfaction is my first priority. I always try my best to satisfy every client. If you have any questions, just message me. I will help you. </p>
+<p>Client satisfaction is my first priority. I always try my best to satisfy every client.</p>
 
+<h4>Contact with me!</h4>
 <p>Email: rahitulislam213@gmail.com</p>
 <p>Phone / WhatsApp: 01313687347</p>
 <p>Website: https://rimonprogrammer.netlify.app/</p>
@@ -50,7 +51,9 @@
 <p>Thanks for visiting my profile❤️</p>
 <p>Have a nice day!</p>
 
-Skills: HTML / CSS / Bootstrap / JavaScript / REACT / Node / Express / MongoDB
+Technologies: HTML 5 / CSS 3 / Bootstrap 5 / JavaScript (es-16) / REACT-JS / Node-JS / Express-JS / MongoDB
+Tools: VS code / Git / GitHub / Netlify / Vercel
+Packages: Mongoose / Bcrypt-JS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimonprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="rimonprogrammer" /> </p>
 <p align="left"> <a href="https://twitter.com/rimonprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/rimonprogrammer?logo=twitter&style=for-the-badge" alt="rimonprogrammer" /></a> </p>
