@@ -50,9 +50,6 @@
   <li>✅Website: https://rimonprogrammer.netlify.app/</li>
 </ul>
 
-<p>Thanks for visiting my profile❤️</p>
-<p>Have a nice day!</p>
-
 <p>📡Technologies: HTML 5 / CSS 3 / Bootstrap 5 / JavaScript (es-16) / REACT-JS / Node-JS / Express-JS / MongoDB</p>
 <p>⚙️Tools: VS code / Git / GitHub / Netlify / Vercel</p>
 <p>🥡Packages: Mongoose / Bcrypt-JS</p>
@@ -80,4 +77,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimonprogrammer&show_icons=true&locale=en&layout=compact" alt="rimonprogrammer" /></p>
 
-
+<p>Thanks for visiting my profile❤️</p>
+<p>Have a nice day!</p>
