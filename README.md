@@ -77,5 +77,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimonprogrammer&show_icons=true&locale=en&layout=compact" alt="rimonprogrammer" /></p>
 
+<hr/>
 <p>Thanks for visiting my profile❤️</p>
 <p>Have a nice day!</p>
